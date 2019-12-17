@@ -9,17 +9,7 @@
 	background: #fff;
 	border:1px solid #dedede;
 }
- 
-.content2 img {/* for logo telephone, grandchild from div .content */
-	width: 70px;
-	margin:0 0 25px -25px;
-    float: left
-}
-.content2 img { /* for Logo instagram, grandchild from div .content*/
-    width: 50px;
-    margin: 0 0 25px-25px;
-    float: left
-}
+
 .content2 h1 { /* to style the writing of  "OUR CONTACT"*/
 	padding:0;
 	margin:0 0 15px;
@@ -28,7 +18,7 @@
 	font-family: product sans;
 }
 
-.content2 p:last-child {
+.content2 p: {
 	margin: 0;
 }
  
@@ -45,9 +35,8 @@
 .page { /*to make the page stay 100% without having to roll*/
     widows: inherit
 }
-.
-    
+
+.content img{/*to setting the img*/
+    width: 50px
 }
-
-
 
