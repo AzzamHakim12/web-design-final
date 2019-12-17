@@ -10,15 +10,14 @@ background: #fff;
 border:1px solid #dedede;
 }
 .content2 img { /* div for Content image, child*/
-width: 950px;
-margin:0 0 25px -25px;
+width: 100%;
+
 }
 .content2 h1 { /* div for Content header at paragraph, child*/
 text-align: center;
 padding:0;
 margin:0 0 15px;
 font-weight: normal;
-color: #666;
 font-family: product sans;
 }
 .content2 p:last-child { /* div for Content paragraph, child*/
