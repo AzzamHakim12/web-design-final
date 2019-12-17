@@ -1,0 +1,59 @@
+@media screen and (max-width: 960px) {
+
+	.header {
+		position:inherit;
+	}
+
+	.wrap {
+		width: 90%;
+		margin:25px auto;
+	}
+
+	nav.menu ul {
+		width: 100%;
+	}
+
+	nav.menu ul {
+		float:inherit;
+	}
+
+	nav.menu ul li {
+		float:inherit;
+		margin:0;
+	}
+
+	nav.menu ul a {
+		padding:15px;
+		font-size: 16px;
+		border-top:1px solid #1abf9f;
+		border-bottom:1px solid #16a085;
+	}
+
+	.blog {
+		width:90%;
+	}
+
+	.content {
+		margin:0 auto 25px;
+		width:100%;
+		border:1px solid #dedede;
+		padding:0%;  
+		background: #fff;
+	}
+
+	.content2 {
+		
+		margin:25px auto;
+		width: 100%;
+
+	}
+
+	.content2 img {
+		width: 90%;
+		
+	}
+
+	
+
+
+}
