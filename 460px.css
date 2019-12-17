@@ -1,0 +1,16 @@
+@media screen and (max-width: 460px) {
+
+	nav.menu ul a {
+		padding:15px;
+		font-size: 14px;
+	}
+
+	.content {
+		margin:25px auto;
+	}
+
+	.content2 {
+		width: 100%;
+		margin:25px auto;
+	}			
+}
